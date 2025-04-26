@@ -49,13 +49,9 @@
 
 5. **What is Spring Data JPA?**
    - Spring Data JPA is a part of the Spring Data project that simplifies database interactions using JPA (Java Persistence API).
-```
-
 ---
 
 ### 09-Interview_Questions/Python_Questions.md
-
-```markdown
 # Python Interview Questions
 
 ## Core Python Questions:
@@ -106,8 +102,6 @@
 ---
 
 ### 09-Interview_Questions/Cloud_DevOps_Questions.md
-
-```markdown
 # Cloud & DevOps Interview Questions
 
 ## Cloud Platform Questions (AWS, Azure, GCP):
@@ -158,8 +152,6 @@
 ---
 
 ### 09-Interview_Questions/Database_Backend.md
-
-```markdown
 # Database & Backend Interview Questions
 
 ## SQL Questions:
@@ -193,13 +185,9 @@
 
 5. **What is a CAP theorem?**
    - CAP theorem states that in a distributed database system, you can only guarantee two of the following: Consistency, Availability, and Partition tolerance.
-```
-
 ---
 
 ### 09-Interview_Questions/Angular_Questions.md
-
-```markdown
 # Angular Interview Questions
 
 ## Core Angular Questions:
@@ -237,8 +225,6 @@
 ---
 
 ### 09-Interview_Questions/Behavioral_Leadership_Questions.md
-
-```markdown
 # Behavioral & Leadership Interview Questions
 
 1. **Tell me about a time when you had to resolve a conflict within your team.**
