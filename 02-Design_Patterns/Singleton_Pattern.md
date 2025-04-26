@@ -1,6 +1,3 @@
-### ✅ `02-Design_Patterns/Singleton_Pattern.md`
-
-```markdown
 # 📚 Singleton Pattern
 
 The **Singleton Pattern** is a **creational design pattern** that ensures a class has only one instance and provides a global point of access to it. It is used when you need to manage shared resources across your application.
@@ -150,8 +147,3 @@ export class SingletonService {
 - [Design Patterns - Singleton Pattern](https://refactoring.guru/design-patterns/singleton)
 - [Java Singleton Implementation](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices)
 - [Angular Dependency Injection](https://angular.io/guide/providers)
-
----
-
-📌 **Next Recommendation**: Move to `02-Design_Patterns/Factory_Pattern.md` — Learn about creating objects without specifying the exact class of object that will be created.
-```
