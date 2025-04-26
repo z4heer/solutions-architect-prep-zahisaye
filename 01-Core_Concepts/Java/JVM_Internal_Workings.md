@@ -1,11 +1,3 @@
-Awesome!  
-Here’s the next important file:
-
----
-
-### ✅ `01-Core_Concepts/Java/JVM_Internal_Workings.md`
-
-```markdown
 # 📚 JVM Internal Workings
 
 Understanding how JVM works internally is crucial for system design, performance optimization, and troubleshooting at Solutions Architect level.
@@ -125,6 +117,3 @@ _(This will cause OutOfMemoryError after heap fills up.)_
 - [Memory Management in Java (Baeldung)](https://www.baeldung.com/java-memory-management)
 
 ---
-
-📌 **Next Recommendation**: Dive into `Spring_Boot_Core_Concepts.md` to master backend microservices architecture with Spring Boot!
-```
