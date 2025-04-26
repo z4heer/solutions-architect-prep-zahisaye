@@ -1,0 +1,69 @@
+solutions-architect-prep/
+│
+├── 01-Core_Concepts/
+│   ├── Java/
+│   │   ├── Key_Terms.md
+│   │   ├── Collections_Deep_Dive.md
+│   │   ├── Multithreading_Best_Practices.md
+│   │   ├── Design_Patterns_Mindmap.md
+│   ├── SpringBoot/
+│   │   ├── Key_Terms.md
+│   │   ├── Microservices_Architecture.md
+│   │   ├── Security_Best_Practices.md
+│   │   ├── API_Rate_Limiting_Strategies.md
+│   ├── Python/
+│   │   ├── Key_Terms.md
+│   │   ├── Async_Programming.md
+│   │   ├── FastAPI_vs_Flask_Comparison.md
+│   │   ├── Data_Processing_Pipelines.md
+│   └── Angular/
+│       ├── Key_Terms.md
+│       ├── Advanced_RxJS_Patterns.md
+│       ├── State_Management_NgRx.md
+│       ├── Dynamic_Forms_And_Guards.md
+│
+├── 02-Interview_Questions/
+│   ├── Java_SpringBoot_Questions.md
+│   ├── Python_Questions.md
+│   ├── Angular_Questions.md
+│   ├── Cloud_DevOps_Questions.md
+│   ├── Behavioral_Leadership_Questions.md
+│
+├── 03-Projects/
+│   ├── SpringBoot_Microservice_Suite/
+│   │   ├── User_Service/
+│   │   ├── Product_Service/
+│   │   ├── Order_Service/
+│   │   ├── API_Gateway_Service/
+│   │   └── README.md
+│   ├── Python_ETL_Pipeline/
+│   │   └── README.md
+│   └── Angular_Admin_Dashboard/
+│       └── README.md
+│
+├── 04-Patterns_And_Practices/
+│   ├── Key_Terms.md
+│   ├── Architectural_Design_Patterns.md
+│   ├── Clean_Code_Principles.md
+│   ├── Microservices_Best_Practices.md
+│   ├── Event_Driven_Architecture_Mindmap.md
+│
+├── 05-System_Designs/
+│   ├── Design_ECommerce_Platform.md
+│   ├── Design_RealTime_Chat_System.md
+│   ├── Design_Scalable_Notification_System.md
+│   ├── API_Gateway_Design.md
+│   ├── HLD_LLD_Templates.md
+│
+├── assets/
+│   ├── diagrams/
+│   │   ├── Java_Collections_Diagram.png
+│   │   ├── ECommerce_HLD.png
+│   │   └── Microservices_EventFlow.png
+│   └── mindmaps/
+│       ├── SpringBoot_Mindmap.png
+│       ├── Angular_RxJS_Mindmap.png
+│       └── SystemDesign_CheatSheet.png
+│
+├── README.md
+└── LICENSE
