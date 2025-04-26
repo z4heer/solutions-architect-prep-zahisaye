@@ -97,10 +97,7 @@
 
 3. **How does FastAPI differ from Flask?**
    - FastAPI is an asynchronous web framework for building APIs quickly, with support for type annotations, while Flask is synchronous by default.
-```
-
 ---
-
 ### 09-Interview_Questions/Cloud_DevOps_Questions.md
 # Cloud & DevOps Interview Questions
 
