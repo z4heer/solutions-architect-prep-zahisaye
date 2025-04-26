@@ -1,6 +1,3 @@
-### ✅ `02-Design_Patterns/Factory_Pattern.md`
-
-```markdown
 # 📚 Factory Pattern
 
 The **Factory Pattern** is a **creational design pattern** that provides an interface for creating objects, but allows subclasses or client code to alter the type of objects that will be created. It decouples object creation from the client, making the system more flexible and scalable.
@@ -201,9 +198,3 @@ class CatFactory implements AnimalFactory {
 - [Design Patterns - Factory Method](https://refactoring.guru/design-patterns/factory-method)
 - [Factory Pattern Explained](https://sourcemaking.com/design_patterns/factory_method)
 - [Abstract Factory Pattern](https://refactoring.guru/design-patterns/abstract-factory)
-
----
-
-📌 **Next Recommendation**: Move to `02-Design_Patterns/Builder_Pattern.md` — Learn about creating complex objects step by step while maintaining a fluent interface.
-
-```
