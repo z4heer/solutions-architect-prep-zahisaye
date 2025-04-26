@@ -1,11 +1,3 @@
-Awesome — you're building a serious Solutions Architect prep hub! 🚀  
-Here’s the next detailed file:
-
----
-
-### ✅ `01-Core_Concepts/SpringBoot/SpringBoot_Security_JWT.md`
-
-```markdown
 # 📚 Spring Boot Security with JWT
 
 Securing REST APIs is a **critical skill** for backend architecture — especially using **JWT (JSON Web Token)** for authentication and authorization.
@@ -132,6 +124,3 @@ public class CustomUserDetailsService implements UserDetailsService {
 - [Baeldung - JWT Authentication with Spring Boot](https://www.baeldung.com/spring-security-oauth-jwt)
 
 ---
-
-📌 **Next Recommendation**: Learn `SpringBoot_Advanced_AOP_Caching.md` for mastering advanced concepts like aspect-oriented programming and caching strategies in Spring Boot!
-```
