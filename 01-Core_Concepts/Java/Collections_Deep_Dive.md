@@ -1,6 +1,3 @@
-### ✅ `01-Core_Concepts/Java/Collections_Deep_Dive.md`
-
-```markdown
 # 📚 Java Collections Deep Dive
 
 A foundational concept every Solutions Architect must master — not just to write code, but to design robust systems with the right data structures.
