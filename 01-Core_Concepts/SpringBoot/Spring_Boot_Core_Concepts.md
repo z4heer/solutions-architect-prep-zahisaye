@@ -1,11 +1,3 @@
-Here we go!  
-Now building out the **Spring Boot** section 🚀:
-
----
-
-### ✅ `01-Core_Concepts/SpringBoot/Spring_Boot_Core_Concepts.md`
-
-```markdown
 # 📚 Spring Boot Core Concepts
 
 Spring Boot is the foundation for creating production-grade, stand-alone Spring applications easily — critical for Solutions Architects designing backend systems.
@@ -130,6 +122,3 @@ management.endpoint.health.show-details=always
 - [Spring Boot Starters Explained (Baeldung)](https://www.baeldung.com/spring-boot-starters)
 
 ---
-
-📌 **Next Recommendation**: Study `SpringBoot_RestAPI_BestPractices.md` to learn professional REST API design patterns using Spring Boot!
-```
