@@ -1,10 +1,3 @@
-Here’s the next one:
-
----
-
-### **02-Interview_Questions/Python_Questions.md**
-
-```markdown
 # Python Interview Questions
 
 Comprehensive set of important questions for Python developer, backend architect, and solutions architect roles.
