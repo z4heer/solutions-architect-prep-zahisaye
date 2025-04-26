@@ -1,11 +1,3 @@
-Fantastic! Let's keep the momentum going! 🚀  
-Here’s the next detailed file:
-
----
-
-### ✅ `01-Core_Concepts/Angular/Angular_Core_Concepts.md`
-
-```markdown
 # 📚 Angular Core Concepts
 
 Angular is a powerful front-end framework that enables the development of dynamic, scalable, and efficient web applications. Understanding the **core concepts** is fundamental for mastering Angular architecture.
@@ -177,6 +169,3 @@ export class AppComponent {
 - [Angular Dependency Injection Guide](https://angular.io/guide/dependency-injection)
 
 ---
-
-📌 **Next Recommendation**: Move to `02-Design_Patterns/Singleton_Pattern.md` — Learn how the **Singleton Pattern** applies in real-world projects for managing shared resources.
-``
