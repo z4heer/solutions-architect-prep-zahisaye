@@ -144,10 +144,7 @@
 
 3. **Explain the concept of a microservices architecture.**
    - A microservices architecture is an approach where an application is broken into smaller, independent services that are loosely coupled and can be deployed and scaled independently.
-```
-
 ---
-
 ### 09-Interview_Questions/Database_Backend.md
 # Database & Backend Interview Questions
 
