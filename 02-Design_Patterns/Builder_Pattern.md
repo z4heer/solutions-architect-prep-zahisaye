@@ -1,6 +1,3 @@
-### ✅ `02-Design_Patterns/Builder_Pattern.md`
-
-```markdown
 # 📚 Builder Pattern
 
 The **Builder Pattern** is a **creational design pattern** that allows you to create complex objects step-by-step. It separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
