@@ -1,6 +1,3 @@
-### ✅ `02-Design_Patterns/Prototype_Pattern.md`
-
-```markdown
 # 📚 Prototype Pattern
 
 The **Prototype Pattern** is a **creational design pattern** that allows you to copy existing objects without making the code dependent on their concrete classes. Instead of creating new instances, it clones existing ones, improving performance and flexibility.
@@ -170,9 +167,3 @@ public class Main {
 - [Prototype Pattern - Refactoring Guru](https://refactoring.guru/design-patterns/prototype)
 - [Deep Copy vs Shallow Copy in Java](https://www.baeldung.com/java-deep-copy)
 - [Cloneable Interface Explained](https://www.geeksforgeeks.org/cloneable-interface-in-java/)
-
----
-
-📌 **Next Recommendation**: Move to `02-Design_Patterns/Singleton_Pattern.md` — Understand how to restrict instantiation of a class to a single object!
-
-```
