@@ -1,11 +1,3 @@
-Perfect, let's keep going! 🚀  
-Here’s the next detailed file:
-
----
-
-### ✅ `01-Core_Concepts/SpringBoot/SpringBoot_RestAPI_BestPractices.md`
-
-```markdown
 # 📚 Spring Boot REST API Best Practices
 
 Building production-grade, scalable, and maintainable REST APIs is critical for Solutions Architect roles.
@@ -137,6 +129,3 @@ public class GlobalExceptionHandler {
 - [Baeldung - Spring REST API Best Practices](https://www.baeldung.com/rest-api-spring-oauth2-angular)
 
 ---
-
-📌 **Next Recommendation**: Master `SpringBoot_Security_JWT.md` to learn real-world authentication and authorization using Spring Security with JWT!
-```
