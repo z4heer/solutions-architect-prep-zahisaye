@@ -1,37 +1,78 @@
-# interview-prep
-# 🚀 Solutions Architect Interview Preparation Repository
+# 🚀 Solutions Architect Preparation Repository
 
-This repository is a curated and structured resource to master advanced Solutions Architect roles using Java, Spring Boot, Python, Angular, and Cloud-related technologies.
+Welcome to the **Solutions Architect Prep** vault!  
+This repository is structured for mastering core and advanced concepts in **Java**, **Spring Boot**, **Python**, **Angular**, and related technologies.
+
+It is designed to help you:
+- 📚 Build deep technical expertise
+- 🧠 Revise key concepts quickly using mind maps
+- 🛠️ Implement real-world projects
+- 🎯 Prepare for high-level technical interviews
 
 ---
 
-## 📂 Repository Structure
+## 📚 Repository Structure
 
-| Section | Description |
+| Folder | Description |
 |:---|:---|
-| **01-Core_Concepts/** | Key terms, short definitions, deep-dives, mind maps |
-| **02-Interview_Questions/** | Advanced categorized interview questions |
-| **03-Projects/** | Real-world scalable projects with architecture |
-| **04-Patterns_And_Practices/** | Best practices and architectural patterns |
-| **05-System_Designs/** | HLD, LLD, system design mind maps and diagrams |
-| **assets/** | Diagrams and Mind Maps for visual revision |
+| `01-Core_Concepts/` | Deep dive into Java, Spring Boot, Python, Angular fundamentals with key terms, mind maps, and examples. |
+| `02-Interview_Questions/` | Advanced and scenario-based interview questions with model answers. |
+| `03-Projects/` | Real-world mini projects demonstrating the practical use of core concepts. |
+| `04-System_Design/` | System design notes, architectures, design patterns, diagrams. |
+| `05-Architecture_Notes/` | Case studies and architecture design deep dives for microservices, event-driven systems, cloud architectures, etc. |
+| `06-Resources/` | Curated learning resources, links, PDFs, cheat sheets. |
 
 ---
 
-## 🔥 How to Use
-- **Start** with Core Concepts mind maps.
-- **Implement** Projects end-to-end.
-- **Revise** System Designs weekly.
-- **Practice** Mock Interview Questions daily.
-- **Visualize** key architectures and trade-offs.
+## 🧠 Focus Areas
+
+- **Java Advanced Concepts** (Collections, Multithreading, JVM Internals, Functional Programming)
+- **Spring Boot Deep Dive** (REST API, Security, Microservices, Cloud Native)
+- **Python Essentials for Architects** (Automation, APIs, Data Processing)
+- **Angular 16+ Full Stack Development** (SPA, RxJS, Best Practices)
+- **System Design and Architecture Thinking** (Scalability, Fault Tolerance, High Availability)
 
 ---
 
-## 🎯 Bonus Materials
-- Docker and Kubernetes deployment for projects
-- CI/CD workflow examples
-- Architecture decision templates
-- 90-Day Interview Sprint Plan
+## 📖 Learning Approach
+
+✅ **Key Technical Words + Definitions**  
+✅ **Mind Maps for Fast Revision**  
+✅ **Common Interview Traps and Solutions**  
+✅ **Mini Code Snippets and Project Implementations**  
+✅ **Real-world System Design Examples**  
 
 ---
-Happy learning and best of luck with your Solutions Architect journey 🚀
+
+## ✨ How to Use
+
+1. Start with `01-Core_Concepts/`.
+2. Track topics you’ve completed with checklists inside each `.md` file.
+3. Dive into `/03-Projects/` to implement concepts practically.
+4. Review `/04-System_Design/` to sharpen architecture skills.
+5. Use `/02-Interview_Questions/` for rapid interview prep.
+
+---
+
+## 📌 Contribution Guide (Optional)
+
+If you want to contribute:
+- Fork the repo
+- Create a new branch
+- Commit your changes
+- Submit a pull request 🚀
+
+---
+
+## 📎 Useful Links
+
+- [Official Java Docs](https://docs.oracle.com/en/java/)
+- [Spring Boot Reference](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
+- [Python 3 Documentation](https://docs.python.org/3/)
+- [Angular Official Guide](https://angular.io/guide/what-is-angular)
+
+---
+
+## 🙌 Happy Learning and Building!
+
+---
