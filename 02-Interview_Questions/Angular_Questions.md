@@ -1,6 +1,3 @@
-### **02-Interview_Questions/Angular_Questions.md**
-
-```markdown
 # Angular Interview Questions
 
 Complete list of important questions targeted for Frontend Developer, Fullstack Developer, and Solutions Architect roles focusing on Angular (v12+ to v17+).
